@@ -1,0 +1,6 @@
+{
+  "name": "TruckMate",
+  "description": "Truck & pickup booking app with local Room Database, REST backend service, Google Maps integration, vehicle selection, driver bidding, and live trip tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
