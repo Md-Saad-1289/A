@@ -23,7 +23,7 @@ jobs:
       - name: Make Gradle executable
         run: chmod +x ./gradlew
 
-      - name: Build APK
+      - name: Build Release APK
         run: ./gradlew assembleRelease
 
       - name: Upload APK
